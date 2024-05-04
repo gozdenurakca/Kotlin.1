@@ -29,7 +29,7 @@ class MainActivity : ComponentActivity() {
         var b = 10
         println(a*b)
 
-        var yas = 30
+        var yas = 50
         println(yas/5*8)
 
         val x = 20
